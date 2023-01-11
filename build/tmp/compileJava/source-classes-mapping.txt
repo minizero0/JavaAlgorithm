@@ -8,3 +8,11 @@ class1.java
  class1
 excetionTest.java
  excetionTest
+throwTest.java
+ throwTest
+throwTest2.java
+ throwTest2
+ScoreException.java
+ ScoreException
+adminException.java
+ adminException
