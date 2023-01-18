@@ -16,3 +16,5 @@ ScoreException.java
  ScoreException
 adminException.java
  adminException
+tokenTest.java
+ tokenTest
